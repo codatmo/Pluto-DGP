@@ -1,0 +1,14 @@
+[Export]
+baked_state = false
+offer_binder = true
+slider_server_url="https://test-pluto-dgp.herokuapp.com"
+ignore_cache = [
+    "index.jl",
+]
+create_index = false
+
+[SliderServer]
+exclude=[
+    # these are in the repo but not used on the website
+
+]
