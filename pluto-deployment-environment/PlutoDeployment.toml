@@ -10,5 +10,4 @@ create_index = false
 [SliderServer]
 exclude=[
     # these are in the repo but not used on the website
-
 ]
