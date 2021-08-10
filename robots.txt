@@ -1,0 +1,4 @@
+Sitemap: https://codatmo.github.io/Pluto-DGP/sitemap.xml
+
+User-agent: *
+Disallow:
